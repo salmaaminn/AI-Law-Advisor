@@ -1,6 +1,7 @@
 An AI-powered client intake system for law firms that automatically summarizes legal requests, categorizes inquiries, and suggests recommended next steps for advisors through Google Gemini AI and MySQL.
 
-```Example Output
+Example Output
+```
 === AI Law Advisor - Client Intake ===
 Enter client name: John Smith
 Enter client email: john@email.com
